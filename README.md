@@ -1,3 +1,5 @@
 # cloud-storage-auth-authorization-RBAC
 
-<a href="C:\Users\POOJA SUNDAR\Desktop\RBAC-Demo-Representation.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+
+## Sample output
+[Click Here](https://drive.google.com/file/d/1csGm4Zln_UnHUoy4FUSGbxwD5kfLoPWu/view?usp=sharing)
