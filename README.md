@@ -1,4 +1,4 @@
-# cloud-storage-authentication-authorization-RBAC
+# Firebase-based-cloud-storage-authentication-authorization-RBAC
 
 [Web App](https://pictures-772d8.web.app/)
 ## Sample output
